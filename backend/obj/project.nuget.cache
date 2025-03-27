@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oc97GTnFeP4=",
+  "success": true,
+  "projectFilePath": "/Users/hajarlamrisaifi/Desktop/todo-app/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/hajarlamrisaifi/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/hajarlamrisaifi/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
